@@ -1,5 +1,7 @@
 # CraftLoom — Curated Freelance Atelier (INR)
 
+🌐 **Live Demo:** https://shikharsinghrana0-hash.github.io/craftloom-freelancing-marketplace/
+
 A modern, responsive **Freelancing Marketplace** web application where clients publish project briefs in **Indian Rupees (₹ / INR)** and freelancers explore opportunities, inspect deliverables, submit validated proposals, and manage their work in a unified dashboard.
 
 **Developed by SHIKHAR SINGH RANA**
